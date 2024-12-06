@@ -71,4 +71,4 @@ Here are the steps to set it up:
 ### Installing
 4. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/UniqueSUJAL/Capex_StockSentimentAnalysis.git
+   git clone https://github.com/UniqueSUJAL/Capex_StockSentimentAnalysis.git/blob/main/main.py
